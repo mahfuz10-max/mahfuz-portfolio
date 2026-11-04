@@ -10,7 +10,7 @@ Personal portfolio website of **Mustafizur Rahman Mahfuz**, a Full-Stack Web Dev
 
 | Projects | Skills |
 |---|---|
-| ![Projects](02-projects.png) | ![Skills](03-skills.png) | ![Mobile](04-mobile)
+| ![Projects](02-projects.png) | ![Skills](03-skills.png) | ![Mobile View](04-mobile.png) |
 
 <img src="screenshots/04-mobile.png" width="260" alt="Mobile view"/>
 
