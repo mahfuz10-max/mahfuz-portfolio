@@ -6,11 +6,11 @@ Personal portfolio website of **Mustafizur Rahman Mahfuz**, a Full-Stack Web Dev
 
 ## Screenshots
 
-![Hero section](screenshots/01-hero.png)
+![Hero section](01-hero.png)
 
 | Projects | Skills |
 |---|---|
-| ![Projects](screenshots/02-projects.png) | ![Skills](screenshots/03-skills.png) |
+| ![Projects](02-projects.png) | ![Skills](03-skills.png) |
 
 <img src="screenshots/04-mobile.png" width="260" alt="Mobile view"/>
 
